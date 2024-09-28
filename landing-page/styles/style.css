@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+    /* Config Font padão */
+    font-family: "Sarala", sans-serif;
+    font-weight: 400;
+}
+
+body {
+    font-size: 100%;
+    background-image: linear-gradient(68.15deg, #2f2325 16.62%, #8e5d52 85.61%);
+}
+
+.header {
+    padding: 24px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-image {
+    height: 72px;
+}
+
+.header-menu {
+    display: flex;
+    gap: 32px;
+}
+
+.header-menu-item {
+    font-size: 18px;
+    color: #fff2e7;
+}
+
+.header-menu-item:hover {
+    cursor: pointer;
+    color: hsla(27, 100%, 95%, 0.7);
+}
+
+.content {
+    margin-bottom: 48px;
+    border-top: 0.4px solid #fff2e7;
+}
+
+.content-main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.content-main-written {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.content-main-written-title {
+    font-family: "Righteous", cursive;
+    font-size: 64px;
+    color: #fff2e7;
+}
+
+.content-main-written-subtitle {
+    font-size: 24px;
+    color: #ecd6c4;
+}
+
+.content-main-written-button {
+    width: 180px;
+    height: 60px;
+    background-color: #ecd6c4;
+    color: #2f2325;
+    font-size: 24px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.content-main-written-button:hover {
+    cursor: pointer;
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
+.content-main-image {
+    height: 430px;
+}
+
+.content-secondary {
+    margin-top: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.content-secondary-title {
+    border-top: 0.4px solid #fff2e7;
+    margin-bottom: 16px;
+    padding-top: 48px;
+    font-family: "Righteous", cursive;
+    font-size: 24px;
+    color: #fff2e7;
+}
+
+.content-secondary-paragraph {
+    color: #ecd6c4;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.footer {
+    padding: 32px;
+    border-top: 0.4px solid #fff2e7;
+}
+
+.footer-image {
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}
