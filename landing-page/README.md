@@ -7,10 +7,9 @@
 </p>
 
 O Projeto Bale Bot é uma página Web para mostrar a funcionalidade do Bot Bale.
-Este é um projeto da <strong>Rafaella Ballerini</strong>.
 <br>
 
-Este foi um dos projetos das aulas de HTML & CSS, projetado por <a href="https://www.instagram.com/rafaballerini/">Rafaella Ballerini</a>.
+Este foi um dos projetos das aulas de HTML & CSS, projetado pela <a href="https://www.instagram.com/rafaballerini/">Rafaella Ballerini</a>.
 
 <br>
 

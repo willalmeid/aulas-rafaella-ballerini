@@ -7,10 +7,9 @@
 </p>
 
 O Projeto BaleCoffe é um blog Web para mostrar as bebidas favoritas dos DEVs ao redor do mundo!
-Este é um projeto da <strong>Rafaella Ballerini</strong>.
 <br>
 
-Este foi um dos projetos das aulas de HTML & CSS, projetado por <a href="https://www.instagram.com/rafaballerini/">Rafaella Ballerini</a>.
+Este foi um dos projetos das aulas de HTML & CSS, projetado pela <a href="https://www.instagram.com/rafaballerini/">Rafaella Ballerini</a>.
 
 <br>
 
